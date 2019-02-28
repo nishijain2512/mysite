@@ -1,0 +1,34 @@
+html{
+    background-color: beige;
+    font-size: 18px;
+    
+    color: blue;
+}
+
+p{
+    font-family: 'Caveat', cursive;
+    margin-top: 0.5em;
+    color: green;
+}
+
+h1{
+    font-family: 'Special Elite', cursive;
+    text-align: center;
+    font-size: 40px;
+    color: blue;
+}
+
+img{
+    border: solid; /*to display border*/
+    border-color: blue;
+    display: block;         /*to display image in center, make it block and then left & right margin auto*/
+    margin-left: auto;
+    margin-right: auto;
+}
+
+a:visited{
+    color: green;
+}
+a:hover{
+    color: gray;
+}
